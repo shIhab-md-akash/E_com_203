@@ -1,0 +1,6 @@
+{
+  "name": "ApexStore - Mini E-Commerce & Order Management Platform",
+  "description": "Production-grade Mini E-Commerce and Order Management Platform featuring full shopping lifecycle, inventory transactions, coupons, mock payment, RBAC, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
